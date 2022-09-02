@@ -1,4 +1,4 @@
 # racetangle
 controls:
-    - arrows: move
-    - space: pause
+> - arrows: move
+> - space: pause
