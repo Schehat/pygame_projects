@@ -1,6 +1,6 @@
 """
     controls:
-    w, a, s, d: move
+    - w, a, s, d: move
 """
 import random
 
