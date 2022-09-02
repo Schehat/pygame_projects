@@ -1,2 +1,2 @@
 # pygame_projects
-First programming experiences with python
+Collection of games with Python & Pygame and my first programming experiences
