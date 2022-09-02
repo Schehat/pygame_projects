@@ -1,5 +1,5 @@
 # space_shooter
 controls:
-    - w, a, s, d: move
-    - space: shoot
-    - p: pause
+> - move: w, a, s, d
+> - space: shoot
+> - pause: p
