@@ -1,6 +1,6 @@
 # search_algorithm_a_star
 controls:
-    - left mouse: set blocks
-    - right mouse: remove blocks
-    - space: start algorithm
-    - c: clear grid
+> - left mouse: first start (orange square), second end (blue square), third obstacles (black squares)
+> - right mouse: remove blocks
+> - space: start algorithm
+> - c: clear grid
