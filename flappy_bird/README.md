@@ -1,3 +1,3 @@
 # flappy_bird
 Controls: 
-> - jump: space
+> - space: jump
