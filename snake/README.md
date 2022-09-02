@@ -1,3 +1,3 @@
 # snake
 controls:
-> - move: w, a, s, d
+> - w, a, s, d: move
