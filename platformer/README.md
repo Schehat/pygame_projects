@@ -1,5 +1,5 @@
 # platformer
 controls: 
-> - w: a, d: move 
+> - w, a, d: move 
 > - s: shoot 
 > - space: pause
